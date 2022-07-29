@@ -1,0 +1,15 @@
+/* globals */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(-45deg, #5FC3E4, #E55D87);
+    min-height: 100vh;
+    color: white;
+}
